@@ -15,7 +15,7 @@
 
 
 ## DataSet Used - 
-- DataSet in use is the data log of players who played [Beats Empire](https://info.beatsempire.org) 
+- DataSet in use is the data log of players who played [Beats Empire](https://info.beatsempire.org). 
 
 ---
 README Last Updated: September 10, 2020
