@@ -1,10 +1,11 @@
-# Complex Play Lab - BeatsEmpire | Independent Research Study | CS 699 | University of Wisconsin - Madison
+# - Research Lab: (Complex Play Lab)[complexplay.org]
+# Independent Research Study | CS 699 | University of Wisconsin - Madison
 # README Last Updated: September 10, 2020
 
-Language Used: **Python**
-Libraries Used: **Pandas, Numpy, Scikit, Matplotlib, Plotly**
-Advisors: **Prof. Matthew Berland, Dr. Vishesh Kumar**
-Current Working Status: **In-Process**
+- Language Used: **Python**
+- Libraries Used: **Pandas, Numpy, Scikit, Matplotlib, Plotly**
+- Advisors: **Dr. Matthew Berland, Dr. Vishesh Kumar**
+- Current Working Status: **In-Process**
 
 ## About -   
 Analyzing player strategies - understanding how one variable of the player affects another variable associated with the player. For example, how transitions from one screen to other in the game of one player influences the total cash generated at the end of the page. What are the possible wining strategies of the game ? And much more.
