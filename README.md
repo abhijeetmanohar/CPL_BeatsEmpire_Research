@@ -4,7 +4,8 @@
 - Research Lab: [**Complex Play Lab**](https://complexplay.org)
 - CS 699 | University of Wisconsin - Madison
 - Advisors: **Dr. Matthew Berland, Dr. Vishesh Kumar**
-- Different concepts used to analyze data - **KMeans, Markovian Model, Principal Component Analysis (PCA), Zscore, Decision Tree**
+- Different concepts used to analyze data - **KMeans, Markovian Model, Principal Component Analysis (PCA), Zscore, Decision Tree** 
+- [**Project Link**](https://colab.research.google.com/drive/1JqZ_Wk_Ki-TXrfbPK4JPut0oRHc5XUnS?usp=sharing)
 
 ## Technology 
 - Language Used: **Python**
@@ -16,8 +17,6 @@
 ## DataSet Used - 
 DataSet in use is the data log of players who played [Beats Empire](https://info.beatsempire.org) 
 
-## Project Link & Instructions -
-- Open with Google Colab. 
-- [Link to Project](https://colab.research.google.com/drive/1JqZ_Wk_Ki-TXrfbPK4JPut0oRHc5XUnS?usp=sharing)
+
 
 - README Last Updated: September 10, 2020
