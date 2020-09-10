@@ -1,10 +1,11 @@
-# - Research Lab: (Complex Play Lab)[complexplay.org]
-# Independent Research Study | CS 699 | University of Wisconsin - Madison
-# README Last Updated: September 10, 2020
+- Research Lab: [Complex Play Lab[(complexplay.org)
+- CS 699 | University of Wisconsin - Madison
+- Advisors: **Dr. Matthew Berland, Dr. Vishesh Kumar**
 
+
+## Technology 
 - Language Used: **Python**
 - Libraries Used: **Pandas, Numpy, Scikit, Matplotlib, Plotly**
-- Advisors: **Dr. Matthew Berland, Dr. Vishesh Kumar**
 - Current Working Status: **In-Process**
 
 ## About -   
@@ -13,8 +14,10 @@ Analyzing player strategies - understanding how one variable of the player affec
 Different concepts used to analyze data - **KMeans, Markovian Model, Principal Component Analysis (PCA), Zscore, Decision Tree**
 
 ## DataSet Used - 
-DataSet in use is the data log of players who played (Beats Empire)[https://info.beatsempire.org]. 
+DataSet in use is the data log of players who played [Beats Empire](https://info.beatsempire.org) 
 
 # Link to View Project -
 - Open with Google Colab. 
-- (Link to Project)[https://colab.research.google.com/drive/1JqZ_Wk_Ki-TXrfbPK4JPut0oRHc5XUnS?usp=sharing]
+- [Link to Project](https://colab.research.google.com/drive/1JqZ_Wk_Ki-TXrfbPK4JPut0oRHc5XUnS?usp=sharing)
+
+- README Last Updated: September 10, 2020
