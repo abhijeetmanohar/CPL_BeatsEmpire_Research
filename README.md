@@ -1,7 +1,7 @@
 ## About
 **Goal:** Analyzing player strategies - understanding how one variable of the player affects another variable associated with the player. For example, how transitions from one screen to other in the game of one player influences the total cash generated at the end of the page. What are the possible wining strategies of the game ? And much more.
 
-- Research Lab: [Complex Play Lab[(complexplay.org)
+- Research Lab: (Complex Play Lab)[complexplay.org]
 - CS 699 | University of Wisconsin - Madison
 - Advisors: **Dr. Matthew Berland, Dr. Vishesh Kumar**
 - Different concepts used to analyze data - **KMeans, Markovian Model, Principal Component Analysis (PCA), Zscore, Decision Tree**
