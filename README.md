@@ -14,7 +14,7 @@
 
 
 
-## DataSet Used - 
+## DataSet Used 
 - DataSet in use is the data log of players who played [Beats Empire](https://info.beatsempire.org). 
 
 ---
